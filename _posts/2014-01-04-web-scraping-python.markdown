@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting started with Python: Web-scraping tutorial"
 date:   2014-02-01 10:19:05
-categories: setup jekyll
+categories: ipython notebook web data
 ---
 
 
