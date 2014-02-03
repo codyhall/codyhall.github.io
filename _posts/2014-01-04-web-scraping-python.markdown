@@ -12,6 +12,7 @@ I'm taking just about every available MOOC on data science subjects. In addition
 Here's my first one based on the second lab in Harvard's CS109 Data Science class. 
 
 Web Scraping with Pattern, Pandas and Matplotlib
-<a href=http://nbviewer.ipython.org/github/codyhall/web-scraping/blob/master/scraping-tutorial.ipynb target=_blank>View the ipython notebook here</a>
+<a href="http://nbviewer.ipython.org/github/codyhall/web-scraping/blob/master/scraping-tutorial.ipynb" target="_blank">View the ipython notebook here</a>
 
 I can't wait for Tableau to release Tableau for Mac this quarter!!! This viz would look so much better pulled into tableau public and hosted on the web with more viz types. I'll update this notebook when that's availalbe. 
+
